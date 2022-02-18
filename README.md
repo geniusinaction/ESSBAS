@@ -9,5 +9,5 @@ Simple, fast and not very sophisticated. (You might also say not very good, but 
   <li>I wrote the basics of it in an afternoon</li>
   <li>It is written in MATLAB, and requires the Mapping Toolbox</li>
   <li>It can read in interferograms from LICS, ARIA and GMTSAR</li>
-  <li><b>I haven't uploaded it yet</b>. Soz.</li>
+  <li><b>I haven't uploaded all of it yet</b>. Soz.</li>
 </ul>
