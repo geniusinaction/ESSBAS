@@ -11,3 +11,5 @@ Simple, fast and not very sophisticated. (You might also say not very good, but 
   <li>It can read in interferograms from LICS, ARIA and GMTSAR</li>
   <li><b>I haven't uploaded all of it yet</b>. Soz.</li>
 </ul>
+
+It uses the functions <a href="https://www.mathworks.com/matlabcentral/fileexchange/25683-grdread2">grdread2</a> and <a href="https://www.mathworks.com/matlabcentral/fileexchange/26290-grdwrite2">grdwrite2</a> which one day I might be motivated to reverse engineer, but for now can be found on the <a href="https://www.mathworks.com/matlabcentral/fileexchange/">MATLAB Central File Exchange</a>. 
